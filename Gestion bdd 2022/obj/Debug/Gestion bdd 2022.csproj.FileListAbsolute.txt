@@ -1,0 +1,32 @@
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\Gestion bdd 2022.exe.config
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\Gestion bdd 2022.exe
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\Gestion bdd 2022.pdb
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\MySql.Data.dll
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\Google.Protobuf.dll
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\ZstdNet.dll
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\System.Memory.dll
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\System.Buffers.dll
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\MySql.Data.xml
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion bdd 2022.csproj.AssemblyReference.cache
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion bdd 2022.exe.config
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion_bdd_2022.Connexion.resources
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion_bdd_2022.Form1.resources
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion_bdd_2022.Properties.Resources.resources
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion bdd 2022.csproj.GenerateResource.cache
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion bdd 2022.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion bdd 2022.csproj.CopyComplete
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion bdd 2022.exe
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion bdd 2022.pdb
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion_bdd_2022.Interfaces.resources
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion_bdd_2022.Ajout.resources
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\bin\Debug\ko-KP\Gestion bdd 2022.resources.dll
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion_bdd_2022.Connexion.ko-KP.resources
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\ko-KP\Gestion bdd 2022.resources.dll
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion_bdd_2022.Consulter.resources
+C:\Users\Steve\source\repos\Gestion bdd 2022\Gestion bdd 2022\obj\Debug\Gestion_bdd_2022.Consulter_Agent.resources
